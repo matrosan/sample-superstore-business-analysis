@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents an end-to-end business analytics case study using the Sample Superstore dataset. The analysis was conducted in Python using Pandas and Matplotlib to identify key business trends and provide data-driven recommendations for management.
+This project presents an end-to-end business analytics case study using the Sample Superstore dataset. The analysis was conducted in Python using Pandas and Matplotlib to identify key business trends and provide data-driven recommendations for management. The analysis is based on the publicly available Sample Superstore dataset containing approximately 10,000 sales transactions.
 
 The report evaluates customer performance, product profitability, regional performance, discount strategy, and long-term sales and profit trends.
 

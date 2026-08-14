@@ -51,12 +51,14 @@ This analysis answers the following questions:
 
 ## Skills Demonstrated
 
-- Data cleaning
+- Data loading and validation with Pandas
+- Data cleaning and preparation
+- Filtering, grouping and aggregation
 - Exploratory Data Analysis (EDA)
-- Business analytics
-- Data visualization
-- Business reporting
-- Management recommendations
+- Profitability and customer analysis
+- Time-based sales and profit analysis
+- Data visualization with Matplotlib
+- Translating analytical results into business recommendations
 
 ---
 
